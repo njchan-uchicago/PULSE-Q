@@ -1,2 +1,2 @@
-# PULSE-Q-Q-O
+# PULSE-Q
 UCSP PULSE-Q Quantum Optics Division
